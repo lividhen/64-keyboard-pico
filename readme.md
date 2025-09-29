@@ -2,7 +2,7 @@
 
 ![pico64](imgur.com image replace me!)
 
-Makerunit's 65% keyboard but using an rp2040 instead of an Arduino pro micro.
+Makerunit's 65% keyboard but using an rp2040 instead of an Arduino pro micro.  
 [Printables page](https://www.printables.com/model/1177451-65-key-handwired-keyboard) (Awesome creator, go support them!)
 
 * Keyboard Maintainer: [lividhen](https://github.com/lividhen)
