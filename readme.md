@@ -2,11 +2,12 @@
 
 ![pico64](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+Makerunit's 65% keyboard but using an rp2040 instead of an Arduino pro micro.
+[Printables page](https://www.printables.com/model/1177451-65-key-handwired-keyboard) (Awesome creator, go support them!)
 
 * Keyboard Maintainer: [lividhen](https://github.com/lividhen)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: RP2040
+* Hardware Availability: [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 
 Make example for this keyboard (after setting up your build environment):
 
