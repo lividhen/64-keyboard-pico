@@ -7,16 +7,23 @@
     "features": {
         "bootmagic": true,
         "extrakey": true,
-        "mousekey": true,
+        "mousekey": false,
         "nkro": true
     },
     "usb": {
-	"vid": "0xFEED"
-	"pid": "0x6424"
-	"device_version": "0.0.1"
+	"vid": "0x6424",
+	"pid": "0x6C68",
+	"device_version": "0.0.2"
     },
     "processor": "RP2040",
     "url": "",
+    "bootmagic": {
+        "matrix": [0, 0]
+    },
+    "matrix_pins": {
+	"rows": [ "GP7", "GP22", "GP11", "GP18", "GP15" ],
+	"cols": [ "GP6", "GP8", "GP9", "GP10", "GP12", "GP13", "GP14", "GP16", "GP17", "GP19", "GP20", "GP21", "GP23", "GP24" ]
+    },
     "layouts": {
         "LAYOUT_64_iso": {
             "layout": [
@@ -154,6 +161,6 @@
                 {"matrix": [4, 12], "x": 12.75, "y": 4},
                 {"matrix": [4, 13], "x": 13.75, "y": 4}
             ]
-        }
-    }
+       	}
+    }	
 }
