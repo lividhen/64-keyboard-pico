@@ -5,6 +5,8 @@
 Makerunit's 65-key keyboard but using an rp2040 instead of an Arduino pro micro.  
 [Printables page](https://www.printables.com/model/1177451-65-key-handwired-keyboard) (Awesome creator, go support them!)
 
+It can be used with VIA if you give it pico.json in the style tab (must be enabled in settings). I can't figure out how to make via recognize it without it :(
+
 * Keyboard Maintainer: [lividhen](https://github.com/lividhen)
 * Hardware Supported: RP2040
 * Hardware Availability: [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-pico/)
