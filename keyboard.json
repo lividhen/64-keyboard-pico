@@ -8,7 +8,7 @@
         "bootmagic": true,
         "extrakey": true,
         "mousekey": false,
-        "nkro": true
+        "nkro": false
     },
     "usb": {
 	"vid": "0x6424",
